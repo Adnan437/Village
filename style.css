@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #171636;
+}
+
+.box1{
+    height: 150px;
+    width: 390px;
+    background-color: rgb(81, 67, 49);
+    top: 190px;
+    left: 550px;
+    border-radius: 600px 600px 0 0;
+    position: absolute;
+}
+
+.box2{
+    height: 180px;
+    width: 330px;
+    background-color: rgb(158, 142, 85);
+    top: 340px;
+    left: 580px;
+    position: absolute;
+}
+
+.box3{
+    height: 70px;
+    width: 100px;
+    background-color: rgb(53, 52, 42);
+    position: absolute;
+    top: 410px;
+    left: 610px;
+}
+
+.box4{
+    height: 140px;
+    width: 90px;
+    background-color: rgb(53, 52, 42);
+    position: absolute;
+    top: 380px;
+    left: 750px;
+}
+
+.box5{
+    height: 30px;
+    width: 400px;
+    background-color: rgb(53, 52, 42);
+    position: absolute;
+    top: 520px;
+    left: 545px;
+}
+
+.box6{
+    height: 350px;
+    width: 20px;
+    background-color: rgb(124, 86, 37);
+    position: absolute;
+    top: 190px;
+    left: 1090px;
+}
+
+.box7{
+    height: 150px;
+    width: 150px;
+    background-color: green;
+    position: absolute;
+    border-radius: 50%;
+    top: 200px;
+    right: 100px;
+}
+
+.box8{
+    height: 150px;
+    width: 150px;
+    background-color: green;
+    position: absolute;
+    border-radius: 50%;
+    top: 200px;
+    right: 150px;
+}
+
+.box9{
+    height: 150px;
+    width: 150px;
+    background-color: green;
+    position: absolute;
+    border-radius: 50%;
+    top: 150px;
+    right: 100px;
+}
+
+.box10{
+    height: 150px;
+    width: 150px;
+    background-color: green;
+    position: absolute;
+    border-radius: 50%;
+    top: 150px;
+    right: 200px;
+}
+
+.box11{
+    height: 150px;
+    width: 150px;
+    background-color: green;
+    position: absolute;
+    border-radius: 50%;
+    top: 200px;
+    right: 250px;
+}
+
+.box12{
+    height: 150px;
+    width: 150px;
+    background-color: aliceblue;
+    position: absolute;
+    border-radius: 50%;
+    top: 110px;
+    left: 300px;
+}
+
+.box13{
+    height: 150px;
+    width: 150px;
+    background-color: #171636;
+    position: absolute;
+    border-radius: 50%;
+    top: 90px;
+    left: 320px;
+}
+
+.box14{
+    height: 50px;
+    width: 100px;
+    border-radius: 60% 60% 0 0;
+    background-color: rgb(74, 77, 50);
+    position: absolute;
+    top: 500px;
+    left: 1050px;
+}
